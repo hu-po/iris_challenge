@@ -1,4 +1,9 @@
 # =========== #
+#     Dir     #
+# =========== #
+detector/train/models/*
+
+# =========== #
 #  Notebooks  #
 # =========== #
 .idea*
