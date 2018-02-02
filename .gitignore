@@ -1,0 +1,21 @@
+# =========== #
+#  Notebooks  #
+# =========== #
+.idea*
+__pycache__*
+.ipynb_checkpoints*
+
+# =========== #
+#    Images   #
+# =========== #
+*.ppm
+*.jpg
+*.jpeg
+*.png
+
+# =========== #
+#   CSV/XML   #
+# =========== #
+*.csv
+*.xml
+
