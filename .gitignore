@@ -1,7 +1,9 @@
 # =========== #
 #     Dir     #
 # =========== #
-detector/train/models/*
+detector/models/*
+!detector/models/*.config
+detector/data/*
 
 # =========== #
 #  Notebooks  #
