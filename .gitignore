@@ -19,6 +19,8 @@ __pycache__*
 *.jpg
 *.jpeg
 *.png
+!output_images/detection/*.png
+!output_images/horizon/*.png
 
 # =========== #
 #   CSV/XML   #
